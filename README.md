@@ -22,3 +22,4 @@ python -m venv selenium_env
 pip install -r requirements.txt
 
 5. Go to the project folder and follow its README for usage instructions.
+# selenium_python
