@@ -1,0 +1,10 @@
+# Ignore virtual environment
+selenium_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore outputs and screenshots in any subfolder
+**/outputs/
+**/screenshots/
